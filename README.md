@@ -75,6 +75,3 @@ plt.show()
 Após instalar as bibliotecas necessárias e ajustar os tickers conforme desejado, você pode executar o script para baixar os dados e plotar os gráficos de preços das ações.
 
 Certifique-se de ter todas as dependências instaladas e, em seguida, execute o script em um ambiente Python compatível.
-```
-
-Lembre-se de que esta é uma documentação em formato de Markdown, que é amplamente usado no GitHub para documentação em repositórios. Certifique-se de formatar corretamente o arquivo README.md dentro do seu repositório para que ele possa ser renderizado corretamente.
