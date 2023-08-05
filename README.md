@@ -26,7 +26,7 @@ Certifique-se de que essas bibliotecas estejam instaladas antes de executar o sc
 
 ## Definição dos Tickers
 
-Os tickers das ações que você deseja rastrear são definidos na lista `tickers`. Por exemplo:
+Os tickers das ações que você deseja rastrear (SA para ações Brasileiras) são definidos na lista `tickers`. Por exemplo:
 
 ```python
 tickers = ['AAPL', 'MSFT', 'PETR4.SA', 'BBDC4.SA']
