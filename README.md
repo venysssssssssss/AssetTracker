@@ -1,5 +1,4 @@
 # AssetTracker
-Aqui está a documentação do seu código na sintaxe do GitHub:
 
 ```markdown
 # Rastreador de Ações usando yfinance
