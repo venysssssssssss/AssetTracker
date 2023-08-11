@@ -1,4 +1,4 @@
-# AssetTracker
+# AssetTracker.
 
 ```markdown
 # Rastreador de Ações usando yfinance
